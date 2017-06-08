@@ -71,6 +71,7 @@ window.onload = function() {
 			setGameElements();
 
 			playerNameElem.innerHTML = player.name;
+			setGamePoints();
 		}
 	}
 
